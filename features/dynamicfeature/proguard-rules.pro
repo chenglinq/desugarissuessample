@@ -1,0 +1,4 @@
+-keep class com.fasterxml.jackson.** { *; }
+-keep class org.apache.avro.** { *; }
+-keep class j$.util.concurrent.ConcurrentMap { *; }
+-keep class j$.util.concurrent.** { *; }
